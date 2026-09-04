@@ -13,7 +13,7 @@
     align-items: center;
     justify-content: space-evenly;
 }
-.nav-log {
+.nav-logo {
     height: 50px;
     width: 100px;
     display: flex;
@@ -62,13 +62,13 @@
 .nav-search:hover{
     border : 2px solid orange;
 }
-.search-select{
+.nav-select{
     background-color: #f3f3f3;
     width: 50px;
     text-align: center;
     border-top-left-radius: 4px;
     border-bottom-left-radius: 4px;
-    border: node;
+    border: none;
 }
 .search-input{
     width: 100%;
@@ -200,7 +200,7 @@ ul{
 }
 ul a{
     display: block;
-    font-size: 0.85 rem;
+    font-size: 0.85rem;
     margin-top: 10px;
     color:#dddddd;
 }
